@@ -1,0 +1,2 @@
+z80as -x  IPLSKC.ASM
+z80as -x -m"IPLS MAKER K/C" MKIPLSKC.ASM 
